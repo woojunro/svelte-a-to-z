@@ -6,6 +6,7 @@
 		{ title: 'Logic Blocks', href: '/section4' },
 		{ title: 'Handling Events', href: '/section5' },
 		{ title: 'Data Binding', href: '/section6' },
+		{ title: 'Data Binding(Advanced)', href: '/section7' },
 	];
 </script>
 
