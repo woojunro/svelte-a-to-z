@@ -5,6 +5,7 @@
 		{ title: 'Props', href: '/section3' },
 		{ title: 'Logic Blocks', href: '/section4' },
 		{ title: 'Handling Events', href: '/section5' },
+		{ title: 'Data Binding', href: '/section6' },
 	];
 </script>
 
