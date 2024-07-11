@@ -4,6 +4,7 @@
 		{ title: 'Syntax for reactivity', href: '/section2' },
 		{ title: 'Props', href: '/section3' },
 		{ title: 'Logic Blocks', href: '/section4' },
+		{ title: 'Handling Events', href: '/section5' },
 	];
 </script>
 
