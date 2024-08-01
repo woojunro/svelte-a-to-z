@@ -1,5 +1,10 @@
 <script lang="ts">
-	const sections = [
+	interface section {
+		title: string;
+		href: string;
+	}
+
+	const sections: section[] = [
 		{ title: 'Basic syntax', href: '/section1' },
 		{ title: 'Syntax for reactivity', href: '/section2' },
 		{ title: 'Props', href: '/section3' },
@@ -13,6 +18,7 @@
 		{ title: 'Transition', href: '/section11' },
 		{ title: 'Animation', href: '/section12' },
 		{ title: 'Action', href: '/section13' },
+		{ title: 'Slot', href: '/section14' },
 	];
 </script>
 
