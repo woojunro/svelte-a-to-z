@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	const sections = [
 		{ title: 'Basic syntax', href: '/section1' },
 		{ title: 'Syntax for reactivity', href: '/section2' },
@@ -10,6 +10,7 @@
 		{ title: 'Life Cycle', href: '/section8' },
 		{ title: 'Store', href: '/section9' },
 		{ title: 'Motion', href: '/section10' },
+		{ title: 'Transition', href: '/section11' },
 	];
 </script>
 
