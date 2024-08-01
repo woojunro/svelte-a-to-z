@@ -11,6 +11,7 @@
 		{ title: 'Store', href: '/section9' },
 		{ title: 'Motion', href: '/section10' },
 		{ title: 'Transition', href: '/section11' },
+		{ title: 'Animation', href: '/section12' },
 	];
 </script>
 
