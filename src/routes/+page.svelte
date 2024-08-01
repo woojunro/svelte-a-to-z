@@ -12,6 +12,7 @@
 		{ title: 'Motion', href: '/section10' },
 		{ title: 'Transition', href: '/section11' },
 		{ title: 'Animation', href: '/section12' },
+		{ title: 'Action', href: '/section13' },
 	];
 </script>
 
