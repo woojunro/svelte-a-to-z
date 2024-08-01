@@ -9,6 +9,7 @@
 		{ title: 'Data Binding(Advanced)', href: '/section7' },
 		{ title: 'Life Cycle', href: '/section8' },
 		{ title: 'Store', href: '/section9' },
+		{ title: 'Motion', href: '/section10' },
 	];
 </script>
 
