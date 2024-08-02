@@ -19,6 +19,7 @@
 		{ title: 'Animation', href: '/section12' },
 		{ title: 'Action', href: '/section13' },
 		{ title: 'Slot', href: '/section14' },
+		{ title: 'Context API', href: '/section15' },
 	];
 </script>
 
