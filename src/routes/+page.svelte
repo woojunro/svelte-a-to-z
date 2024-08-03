@@ -20,6 +20,7 @@
 		{ title: 'Action', href: '/section13' },
 		{ title: 'Slot', href: '/section14' },
 		{ title: 'Context API', href: '/section15' },
+		{ title: 'Svelte Components', href: '/section16' },
 	];
 </script>
 
